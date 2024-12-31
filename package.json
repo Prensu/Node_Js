@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "^4.21.2",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
     "one-liner-joke": "^1.2.2"
   }
 }
